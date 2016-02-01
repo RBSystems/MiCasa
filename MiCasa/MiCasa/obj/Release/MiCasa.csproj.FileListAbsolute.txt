@@ -1,0 +1,6 @@
+C:\Dropbox\Simpl#\Rekaas\MiCasa\MiCasa\MiCasa\bin\MiCasa.dll
+C:\Dropbox\Simpl#\Rekaas\MiCasa\MiCasa\MiCasa\bin\Newtonsoft.Json.Compact.dll
+C:\Dropbox\Simpl#\Rekaas\MiCasa\MiCasa\MiCasa\bin\SimplSharpCustomAttributesInterface.dll
+C:\Dropbox\Simpl#\Rekaas\MiCasa\MiCasa\MiCasa\bin\SimplSharpHelperInterface.dll
+C:\Dropbox\Simpl#\Rekaas\MiCasa\MiCasa\MiCasa\obj\Release\ResolveAssemblyReference.cache
+C:\Dropbox\Simpl#\Rekaas\MiCasa\MiCasa\MiCasa\obj\Release\MiCasa.dll
